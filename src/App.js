@@ -1,5 +1,8 @@
+import AllShark from './AllShark'
 function App() {
-  return <></>;
+  return (
+    <AllShark/>
+  );
 }
 
 export default App;
