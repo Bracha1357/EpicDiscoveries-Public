@@ -1,0 +1,27 @@
+.wide-input{
+  width:300px; /* Adjust the width of my form on the purchase page */
+}
+
+
+.custom-height {
+  height: 900px; /* Adjust the height of my form on the purchase page */
+}
+
+.sign {
+ font-family:'Matemasie', sans-serif;
+}
+
+.script {
+  font-family:'WindSong', sans-serif;
+}
+
+/* This is designed especailly for the message display of that you have successfully logged into your account */
+.script2 {
+  font-family: 'Clicker Script', sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
+
+.custom-margin {
+  margin-bottom: 1rem;
+}
