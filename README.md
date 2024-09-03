@@ -1,4 +1,4 @@
-# API Partner Project
+# Epic Discoverues
 
 ## Instructions: You're a developer for a new e-commerce application!
 
